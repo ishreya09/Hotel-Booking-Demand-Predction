@@ -2,9 +2,6 @@
 From the paper: hotel booking demand datasets
 
 ## About Dataset
-
-Link :- https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
-
 Context
 
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
